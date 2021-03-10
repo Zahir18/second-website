@@ -24,7 +24,7 @@ p{
     float: left;
     margin-left: 3%;
     padding-left: 3%;
-    overflow: auto;
+    
     
 }
 .first-left img{
@@ -68,6 +68,8 @@ p{
     padding: 5px;
     height: 80%;
     border-radius: 10px;
+    overflow: auto;
+
 }
 #left-box{
     border-left: 8px solid;
